@@ -1,0 +1,5 @@
+/teeworlds_srv
+/.bam
+/config.lua
+/src/game/generated/*
+*.pyc
